@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Tesla M1",
+        "price": 89880,
+        "imgUrl": "/images/a.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tesla M2",
+        "price": 13230,
+        "imgUrl": "/images/b.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tesla S2",
+        "price": 60900,
+        "imgUrl": "/images/c.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Tesla XCE",
+        "price": 25900.99,
+        "imgUrl": "/images/d.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tesla SEE",
+        "price": 39908,
+        "imgUrl": "/images/e.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Tesla M3S",
+        "price": 40000.99,
+        "imgUrl": "/images/f.png"
+    }
+]
